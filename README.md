@@ -1,1 +1,1 @@
-# Full-Stack-Python---Python
+# Full-Stack-Python faqat darslar uchun qilingan
